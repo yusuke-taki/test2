@@ -1,4 +1,5 @@
 #!/bin/bash
+# written by taki
 
 echo hoge
 echo hoge
